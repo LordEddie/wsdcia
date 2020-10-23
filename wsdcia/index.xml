@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="emp.xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="emp.xsd">
+	<Employee EMPID="Emp00">
+		<Emp-name>Lyn</Emp-name>
+		<Emp-age>56</Emp-age>
+		<Emp-salary>65000</Emp-salary>
+		<Emp-emailid>lynpew@gmail.com</Emp-emailid>
+		<Emp-Phonenum>9099123932</Emp-Phonenum>
+		<Emp-designation>CEO</Emp-designation>
+	</Employee>
+	<Employee EMPID="Emp01">
+		<Emp-name>Karen Diya</Emp-name>
+		<Emp-age>27</Emp-age>
+		<Emp-salary>117000</Emp-salary>
+		<Emp-emailid>kdkutti@gmail.com</Emp-emailid>
+		<Emp-Phonenum>7989139645</Emp-Phonenum>
+		<Emp-designation>Junior Developer</Emp-designation>
+	</Employee>
+	<Employee EMPID="Emp02">
+		<Emp-name>Rohan</Emp-name>
+		<Emp-age>43</Emp-age>
+		<Emp-salary>100000</Emp-salary>
+		<Emp-emailid>rohabs@gmail.com</Emp-emailid>
+		<Emp-Phonenum>9822123214</Emp-Phonenum>
+		<Emp-designation>Software Engineer</Emp-designation>
+	</Employee>
+	<Employee EMPID="Emp03">
+		<Emp-name>Johny</Emp-name>
+		<Emp-age>34</Emp-age>
+		<Emp-salary>77000</Emp-salary>
+		<Emp-emailid>jbjb@gmail.com</Emp-emailid>
+		<Emp-Phonenum>9791239225</Emp-Phonenum>
+		<Emp-designation>Senior Developer</Emp-designation>
+	</Employee>
+</Company>
